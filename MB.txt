@@ -1,0 +1,1 @@
+[FBAN/FB4A;FBAV/189.0.0.35.91;FBBV/123791219;FBDM/{density=2.0,width=720,height=1590};FBLC/en_US;FBRV/123791219;FBCR/;FBMF/realme;FBBD/realme;FBPN/com.facebook.katana;FBDV/RMX2170;FBSV/7.0.1;FBBK/1;FBOP/1;FBCA/armeabi-v7a:armeabi;]
