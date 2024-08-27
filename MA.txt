@@ -1,1 +1,1 @@
-[FBAN/FB4A;FBAV/205.0.0.27.113;FBBV/139196834;FBDM/{density=3.0,width=1080,height=1920};FBLC/en_US;FBRV/139196834;FBCR/;FBMF/realme;FBBD/realme;FBPN/com.facebook.katana;FBDV/RMX3081;FBSV/8.0.0;FBBK/1;FBOP/1;FBCA/armeabi-v7a:armeabi;]
+[FBAN/FB4A;FBAV/208.0.0.38.104;FBBV/141745697;FBDM/{density=3.0,width=1080,height=1920};FBLC/en_US;FBRV/141745697;FBCR/;FBMF/realme;FBBD/realme;FBPN/com.facebook.katana;FBDV/RMX2156;FBSV/7.0.1;FBBK/1;FBOP/1;FBCA/armeabi-v7a:armeabi;]
